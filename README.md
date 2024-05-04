@@ -2,7 +2,7 @@
 
 Delivering Business Value: MLOps Project for Customer Churn Prediction with Python on AWS
 
-* In this machine learning churn project, we implement a churn prediction model in python using ensemble techniques.
+* In this machine learning churn project, we implement a churn prediction model in Python using ensemble techniques.
 
 Description Of Project:
 
