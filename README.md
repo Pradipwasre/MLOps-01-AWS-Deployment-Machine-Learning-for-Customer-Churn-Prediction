@@ -7,3 +7,4 @@ Amazon Web Services(AWS) is used as a cloud provider.
 Aim:
 
 To deploy a model on AWS that predicts whether the customer is going to churn in the near future or not.
+
