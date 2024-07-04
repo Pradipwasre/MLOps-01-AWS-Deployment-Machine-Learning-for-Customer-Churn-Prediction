@@ -20,6 +20,7 @@ Monitored our application's performance and set up robust logging mechanisms usi
 Infrastructure as Code with Terraform
 
 Automated the provisioning of our AWS infrastructure using Terraform, ensuring consistency and repeatability in our deployments.
+
 📂 Terraform Configuration Highlights:
 ECR Repository Setup: Managed Docker images efficiently.
 CodeBuild Project: Automated the build process for our application.
@@ -27,6 +28,7 @@ CodePipeline Configuration: Streamlined CI/CD pipeline.
 ECS Cluster and Service: Deployed and managed containers with ease.
 Elastic Load Balancer: Ensured seamless traffic distribution.
 IAM Roles and Policies: Managed access control and security.
+
 🌐 Why MLOps on AWS?
 Implementing MLOps on AWS provides a scalable, flexible, and secure environment for deploying and managing machine learning models. It enables us to:
 
