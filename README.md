@@ -21,6 +21,7 @@ Infrastructure as Code with Terraform
 
 Automated the provisioning of our AWS infrastructure using Terraform, ensuring consistency and repeatability in our deployments.
 
+
 📂 Terraform Configuration Highlights:
 ECR Repository Setup: Managed Docker images efficiently.
 CodeBuild Project: Automated the build process for our application.
