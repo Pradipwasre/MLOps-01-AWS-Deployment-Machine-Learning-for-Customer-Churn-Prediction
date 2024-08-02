@@ -6,7 +6,6 @@ Continuous Integration with AWS CodeBuild
 Set up AWS CodeBuild to automatically build and test our application whenever new code is pushed, ensuring the integrity of our builds.
 Continuous Deployment with AWS CodePipeline
 
-
 Automated the entire CI/CD pipeline with AWS CodePipeline, seamlessly integrating CodeCommit, CodeBuild, and ECS for streamlined deployments.
 Container Management with AWS ECR & ECS
 
